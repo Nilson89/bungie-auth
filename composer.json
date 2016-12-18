@@ -1,0 +1,10 @@
+{
+    "name": "nilson89/bungie-auth",
+    "authors": [
+        {
+            "name": "Niels Maseberg",
+            "email": "niels.maseberg@bertelsmann.de"
+        }
+    ],
+    "require": {}
+}
