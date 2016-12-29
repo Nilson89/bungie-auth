@@ -6,5 +6,11 @@
             "email": "niels.maseberg@bertelsmann.de"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": { "Bungie\\Auth\\": "" },
+        "exclude-from-classmap": [
+            "/example/"
+        ]
+    }
 }
